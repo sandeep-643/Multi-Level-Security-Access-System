@@ -82,7 +82,7 @@ git clone https://github.com/sandeep-643/Multi-Level-Security-Access-System.git
 
 Full system details, schematics, user flow diagrams, and hardware setup instructions are provided in the project report:
 
-- [📄 Project Documentation (PDF)](./YOUR_PROJECT_DOCUMENTATION.pdf)
+- [📄 Project Documentation (PDF)](./MULTI-LEVEL SECURITY ACCESS SYSTEM (1).pdf)
 
 *(Update the file name/path above with your actual PDF location in the repo)*
 
